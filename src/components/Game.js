@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Header from './Header';
 import CardContainer from './CardContainer';
+import Modal from './Modal';
 
 export const GameLogicContext = React.createContext();
 
@@ -35,7 +36,8 @@ function Game() {
       <Header score={score}></Header>
       <GameLogicContext.Provider value={handleGameLogic}>
         <CardContainer score={score}></CardContainer>
-      </GameLogicContext.Provider>
+      </GameLogicContext.Provider> 
+      {score === 9 ? <Modal></Modal> : null}
     </div>
   );
 }

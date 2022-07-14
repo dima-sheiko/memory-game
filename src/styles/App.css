@@ -69,6 +69,16 @@ header {
   width: 200px;
 }
 
+/* Modal */
+
+.alert {
+  text-align: center;
+  font-size: 25px;
+  padding: 20px;
+  background-color: #55a630; 
+  color: white;
+}
+
 /* Pseudo */
 
 .card:hover {
@@ -99,3 +109,4 @@ header {
     width: 350px;
   }
 }
+
