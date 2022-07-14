@@ -1,11 +1,12 @@
 import React from 'react';
+import logo from '../assets/logo.png'
 
 function Header() {
-  return <div>
-    <h1>Hollow Knight</h1>
-    <h2>Memory Game</h2>
-    <div>Your score:</div>
-  </div>;
+  return <header>
+    <img className='header-logo' src={logo} alt="logo" />
+    <h2 className='header-title'>Memory Game</h2>
+    <div className='game-score'>Your score: 0</div>
+  </header>;
 }
 
 export default Header;
