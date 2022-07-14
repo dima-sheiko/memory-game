@@ -37,7 +37,7 @@ function Game() {
       <GameLogicContext.Provider value={handleGameLogic}>
         <CardContainer score={score}></CardContainer>
       </GameLogicContext.Provider> 
-      {score === 9 ? <Modal></Modal> : null}
+      {score === 9 ? <Modal reset={reset}></Modal> : null}
     </div>
   );
 }

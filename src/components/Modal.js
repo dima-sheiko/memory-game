@@ -1,8 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 
-function Modal() {
+function Modal({ reset }) {
+  const [isActive, setActive] = useState(true);
+
+  const handleClick = () => setActive(false);
+
   return (
-    <div class='alert'>
+    <div className='alert' style={{ display: isActive ? 'block' : 'none' }}>
+      <span className='closebtn' onClick={() => {handleClick(); reset()}}>
+        &times;
+      </span>
       You've won!
     </div>
   );
