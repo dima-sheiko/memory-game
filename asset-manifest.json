@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dima-sheiko/memory-game/static/css/main.12ae7da3.css",
-    "main.js": "/dima-sheiko/memory-game/static/js/main.b1e5efd6.js",
-    "static/media/grubsong.png": "/dima-sheiko/memory-game/static/media/grubsong.beaaf44b4f0312d4cfa3.png",
-    "static/media/hiveblood.png": "/dima-sheiko/memory-game/static/media/hiveblood.6470e5549f52abb9d039.png",
-    "static/media/compass.png": "/dima-sheiko/memory-game/static/media/compass.bf4422c731fe4bd98b6a.png",
-    "static/media/longnail.png": "/dima-sheiko/memory-game/static/media/longnail.926968f46379eeb3dd2f.png",
-    "static/media/shaman.png": "/dima-sheiko/memory-game/static/media/shaman.df31a9f6dd64c3e2cf69.png",
-    "static/media/slash.png": "/dima-sheiko/memory-game/static/media/slash.b490b5ce0ea86ff029c5.png",
-    "static/media/weaver.png": "/dima-sheiko/memory-game/static/media/weaver.43a643f31bd5e620ff94.png",
-    "static/media/kingsoul.png": "/dima-sheiko/memory-game/static/media/kingsoul.461c3a6af7dc45a6506c.png",
-    "static/media/shadow.png": "/dima-sheiko/memory-game/static/media/shadow.06de7580afc321f80d04.png",
-    "static/media/logo.png": "/dima-sheiko/memory-game/static/media/logo.491b71e829967961c148.png",
-    "index.html": "/dima-sheiko/memory-game/index.html",
-    "main.12ae7da3.css.map": "/dima-sheiko/memory-game/static/css/main.12ae7da3.css.map",
-    "main.b1e5efd6.js.map": "/dima-sheiko/memory-game/static/js/main.b1e5efd6.js.map"
+    "main.css": "/memory-game/static/css/main.12ae7da3.css",
+    "main.js": "/memory-game/static/js/main.835d6c62.js",
+    "static/media/grubsong.png": "/memory-game/static/media/grubsong.beaaf44b4f0312d4cfa3.png",
+    "static/media/hiveblood.png": "/memory-game/static/media/hiveblood.6470e5549f52abb9d039.png",
+    "static/media/compass.png": "/memory-game/static/media/compass.bf4422c731fe4bd98b6a.png",
+    "static/media/longnail.png": "/memory-game/static/media/longnail.926968f46379eeb3dd2f.png",
+    "static/media/shaman.png": "/memory-game/static/media/shaman.df31a9f6dd64c3e2cf69.png",
+    "static/media/slash.png": "/memory-game/static/media/slash.b490b5ce0ea86ff029c5.png",
+    "static/media/weaver.png": "/memory-game/static/media/weaver.43a643f31bd5e620ff94.png",
+    "static/media/kingsoul.png": "/memory-game/static/media/kingsoul.461c3a6af7dc45a6506c.png",
+    "static/media/shadow.png": "/memory-game/static/media/shadow.06de7580afc321f80d04.png",
+    "static/media/logo.png": "/memory-game/static/media/logo.491b71e829967961c148.png",
+    "index.html": "/memory-game/index.html",
+    "main.12ae7da3.css.map": "/memory-game/static/css/main.12ae7da3.css.map",
+    "main.835d6c62.js.map": "/memory-game/static/js/main.835d6c62.js.map"
   },
   "entrypoints": [
     "static/css/main.12ae7da3.css",
-    "static/js/main.b1e5efd6.js"
+    "static/js/main.835d6c62.js"
   ]
 }
